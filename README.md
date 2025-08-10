@@ -55,7 +55,6 @@ Inscribed upon these scrolls are the traces of my magic, deeds and creations gat
 
 🔐 <small>_*Only the chronicles open to the realm are shown. The hidden works remain in shadow._</small>
 
----
 ![visitor-count](https://komarev.com/ghpvc/?username=arpamuji&style=pixel)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

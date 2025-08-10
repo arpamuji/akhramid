@@ -49,9 +49,9 @@ The Foundations of the Realm
 
 Inscribed upon these scrolls are the traces of my magic, deeds and creations gathered from many journeys through the realms of code
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=arpamuji&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![github-stats](https://github-readme-stats-beta-two-99.vercel.app/api?username=arpamuji&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![contribution-stats](https://nirzak-streak-stats.vercel.app/?user=arpamuji&theme=dracula&hide_border=false)<br/>
-![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpamuji&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![most-used-languages](https://github-readme-stats-beta-two-99.vercel.app/api/top-langs/?username=arpamuji&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 🔐 <small>_*Only the chronicles open to the realm are shown. The hidden works remain in shadow._</small>
 
